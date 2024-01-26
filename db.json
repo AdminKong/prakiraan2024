@@ -1,0 +1,99 @@
+{
+  "tahun": [
+    {
+      "id": 1,
+      "teks": "Karier: Bagi para pekerja, tahun 2024 akan menjadi tahun yang baik untuk mengembangkan karier. Anda akan mendapatkan kesempatan untuk maju dan meraih posisi yang lebih tinggi."
+    },
+    {
+      "id": 2,
+      "teks": "Keuangan: Tahun 2024 juga akan menjadi tahun yang menguntungkan bagi Anda. Anda akan mendapatkan penghasilan yang stabil dan peluang untuk menghasilkan lebih banyak uang."
+    },
+    {
+      "id": 3,
+      "teks": "Asmara: Bagi Anda yang masih single, tahun 2024 akan menjadi tahun yang tepat untuk menemukan cinta. Anda akan bertemu dengan orang yang tepat dan membangun hubungan yang bahagia."
+    },
+    {
+      "id": 4,
+      "teks": "Kesehatan: Kesehatan Anda akan terjaga dengan baik di tahun 2024. Anda akan memiliki energi yang cukup untuk menjalani aktivitas sehari-hari."
+    },
+    {
+      "id": 5,
+      "teks": "Pribadi: Anda akan mengalami pertumbuhan dan perkembangan pribadi di tahun 2024. Anda akan menjadi pribadi yang lebih dewasa, bijaksana, dan bertanggung jawab."
+    },
+    {
+      "id": 6,
+      "teks": "Perjalanan: Anda akan memiliki kesempatan untuk melakukan perjalanan ke tempat-tempat baru di tahun 2024. Anda akan mendapatkan pengalaman baru dan memperluas wawasan Anda."
+    },
+    {
+      "id": 7,
+      "teks": "Persahabatan: Persahabatan Anda akan semakin erat di tahun 2024. Anda akan memiliki teman-teman yang mendukung dan selalu ada untuk Anda."
+    },
+    {
+      "id": 8,
+      "teks": "Keluarga: Hubungan Anda dengan keluarga akan semakin harmonis di tahun 2024. Anda akan menghabiskan lebih banyak waktu bersama keluarga dan menciptakan kenangan yang tak terlupakan."
+    },
+    {
+      "id": 9,
+      "teks": "Rekreasi: Anda akan memiliki banyak waktu untuk bersantai dan bersenang-senang di tahun 2024. Anda akan menikmati waktu-waktu luang Anda dan mengisinya dengan kegiatan yang menyenangkan."
+    },
+    {
+      "id": 10,
+      "teks": "Keberuntungan: Anda akan mengalami keberuntungan di berbagai aspek kehidupan Anda di tahun 2024. Anda akan mendapatkan kemudahan dan kelancaran dalam segala urusan Anda."
+    },
+    {
+      "id": 11,
+      "teks": "Harapan: Anda akan memiliki harapan dan optimisme yang tinggi di tahun 2024. Anda akan percaya bahwa Anda bisa meraih semua yang Anda inginkan."
+    },
+    {
+      "id": 12,
+      "teks": "Kebahagiaan: Anda akan merasakan kebahagiaan yang luar biasa di tahun 2024. Anda akan menjalani hidup dengan penuh sukacita dan rasa syukur."
+    },
+    {
+      "id": 13,
+      "teks": "Keberkahan: Anda akan diberkahi dengan berbagai hal baik di tahun 2024. Anda akan mendapatkan kesehatan, kekayaan, kebahagiaan, dan kesuksesan."
+    },
+    {
+      "id": 14,
+      "teks": "Pencapaian: Anda akan mencapai semua tujuan dan cita-cita Anda di tahun 2024. Anda akan merasa puas dan bangga dengan diri sendiri."
+    },
+    {
+      "id": 15,
+      "teks": "Perubahan: Anda akan mengalami perubahan yang positif di tahun 2024. Anda akan menjadi pribadi yang lebih baik dari tahun sebelumnya."
+    },
+    {
+      "id": 16,
+      "teks": "Keajaiban: Anda akan mengalami keajaiban di tahun 2024. Anda akan mendapatkan sesuatu yang tidak pernah Anda bayangkan sebelumnya."
+    },
+    {
+      "id": 17,
+      "teks": "Kesempatan: Anda akan mendapatkan kesempatan untuk mengubah hidup Anda di tahun 2024. Anda harus berani mengambil risiko dan mengejar impian Anda."
+    },
+    {
+      "id": 18,
+      "teks": "Keajaiban: Anda akan menemukan kebahagiaan sejati di tahun 2024. Anda akan menemukan makna hidup dan menjalani hidup dengan penuh cinta dan kasih sayang."
+    },
+    {
+      "id": 19,
+      "teks": "Keabadian: Tahun 2024 akan menjadi tahun yang tak terlupakan bagi Anda. Anda akan menciptakan momen-momen indah yang akan selalu Anda kenang."
+    },
+    {
+      "id": 20,
+      "teks": "Keberhasilan: Anda akan meraih kesuksesan besar di tahun 2024. Anda akan menjadi orang yang sukses dan berpengaruh."
+    }
+  ],
+  
+  "gender": [
+    {"text": "Laki-Laki"}, {"text": "Perempuan"}
+  ],
+
+  "tahoen": [
+    {
+      "id": "1",
+      "text": "Karier: Bagi para pekerja, tahun 2024 akan menjadi tahun yang baik untuk mengembangkan karier. Anda akan mendapatkan kesempatan untuk maju dan meraih posisi yang lebih tinggi."
+    },
+    {
+      "id": "2",
+      "text": "Keuangan: Tahun 2024 juga akan menjadi tahun yang menguntungkan bagi Anda. Anda akan mendapatkan penghasilan yang stabil dan peluang untuk menghasilkan lebih banyak uang."
+    }
+  ]
+}
